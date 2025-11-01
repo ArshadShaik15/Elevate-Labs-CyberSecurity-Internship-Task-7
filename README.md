@@ -12,7 +12,7 @@
 <p align="left">To identify, assess the risk of, and remove potentially malicious or unnecessary browser extensions from my primary web browser, thereby improving browser security and user privacy.</p><br>
 
 
-### Lab Setup:<br>
+### 💻 Lab Setup:<br>
 
 • Google Chrome (or) Microsoft Edge<br>
 • Browser's native Extensions Manager (`chrome://extensions`)<br>
